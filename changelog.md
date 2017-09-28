@@ -17,3 +17,9 @@ Release Date: Sep 28, 2017
 Release Date: Sep 28, 2017
 
 - Completed task "Alpha" from the issue list
+
+## Version 0.0.3
+
+Release Date: Sep 28, 2017
+
+- Completed task "Bravo" from the issue list
