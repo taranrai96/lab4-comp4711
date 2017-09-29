@@ -54,5 +54,15 @@ Release Date: Sep 28, 2017
 
 - Completed task "Golf" from the issue list
 
+## Version 0.0.9
+
+Release Date: Sep 28, 2017
+
+- Completed task "Hotel" from the issue list
+
+NOTE: Adding the 2 arguments ($fruit,$verb) were causing a missing argument exception so both the arguments are not included in the rule in routes.php
+
+
+
 
 
