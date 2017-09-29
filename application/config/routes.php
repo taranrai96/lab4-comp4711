@@ -52,8 +52,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
-$route['foxtrot'] = 'tango';
-$route['i/(:any)'] = 'golf';
-$route['bananas/rule'] = function() {
+$route['foxtrot'] = 'tango'; //Routing Rule for Foxtrot Issue
+$route['i/(:any)'] = 'golf'; // Routing Rule for Golf Issue
+$route['bananas/rule'] = function() { // Routing Rule for Hotel Issue
     return 'golf';
 };
+$route['show/(:any)'] = 'welcome/show/$1'; // Routing Rule for Kilo Issue
