@@ -35,3 +35,10 @@ Release Date: Sep 28, 2017
 Release Date: Sep 28, 2017
 
 - Completed task "Delta" from the issue list
+
+## Version 0.0.6
+
+Release Date: Sep 28, 2017
+
+- Completed task "Echo" from the issue list
+
