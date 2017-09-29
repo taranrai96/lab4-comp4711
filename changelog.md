@@ -68,6 +68,11 @@ Release Date: Sep 28, 2017
 
 - Completed task "India" from the issue list
 
+## Version 0.1.1
+
+Release Date: Sep 28, 2017
+
+- Completed task "Juliet" from the issue list
 
 
 
