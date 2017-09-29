@@ -48,3 +48,11 @@ Release Date: Sep 28, 2017
 
 - Completed task "Foxtrot" from the issue list
 
+## Version 0.0.8
+
+Release Date: Sep 28, 2017
+
+- Completed task "Golf" from the issue list
+
+
+
