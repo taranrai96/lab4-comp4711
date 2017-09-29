@@ -74,6 +74,10 @@ Release Date: Sep 28, 2017
 
 - Completed task "Juliet" from the issue list
 
+## Version 0.1.2
 
+Release Date: Sep 28, 2017
 
+- Completed task "Kilo" from the issue list
+- Added some descriptive comments in routes.php
 
