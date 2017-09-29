@@ -62,6 +62,12 @@ Release Date: Sep 28, 2017
 
 NOTE: Adding the 2 arguments ($fruit,$verb) were causing a missing argument exception so both the arguments are not included in the rule in routes.php
 
+## Version 0.1.0
+
+Release Date: Sep 28, 2017
+
+- Completed task "India" from the issue list
+
 
 
 
